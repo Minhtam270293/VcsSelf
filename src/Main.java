@@ -9,6 +9,9 @@ public class Main {
             System.out.println("i = " + i);
         }
 
+        Utils Util = new Utils();
+        Util.sum(1, 2);
+
         for (int i = 0; i <= 2; i++) {
             System.out.println("second for loop");
         }

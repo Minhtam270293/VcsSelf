@@ -1,0 +1,10 @@
+public class Utils {
+
+    public long sum(long a, long b) {
+        return a + b;
+    }
+
+    public long minus(long a, long b) {
+        return a - b;
+    }
+}
