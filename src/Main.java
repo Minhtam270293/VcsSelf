@@ -8,5 +8,8 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+
+        Utils Util = new Utils();
+        Util.sum(1, 2);
     }
 }
