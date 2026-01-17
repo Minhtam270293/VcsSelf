@@ -4,10 +4,6 @@ public class Utils {
         return a + b;
     }
 
-    public long minus(long a, long b) {
-        return a - b;
-    }
-
     public long multiple(long a, long b) {
         return a * b;
     }
