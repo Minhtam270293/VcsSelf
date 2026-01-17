@@ -7,4 +7,8 @@ public class Utils {
     public long minus(long a, long b) {
         return a - b;
     }
+
+    public long multiple(long a, long b) {
+        return a * b;
+    }
 }
