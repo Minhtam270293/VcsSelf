@@ -11,4 +11,8 @@ public class Utils {
     public long divide(long a, long b) {
         return a / b;
     }
+
+    public long subtract(long a, long b) {
+        return a - b;
+    }
 }
