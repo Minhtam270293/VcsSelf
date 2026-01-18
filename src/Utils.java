@@ -15,4 +15,8 @@ public class Utils {
     public long subtract(long a, long b) {
         return a - b;
     }
+
+    public void doSomething() {
+        System.out.println("Do something");
+    }
 }
