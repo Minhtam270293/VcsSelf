@@ -19,4 +19,8 @@ public class Utils {
     public void doSomething() {
         System.out.println("Do something");
     }
+
+    public void doSomething2() {
+        System.out.println("Do something 2");
+    }
 }
